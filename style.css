@@ -1,4 +1,21 @@
-
 h2 {
-   text-align: center;
+    text-align: center;
+    color: blue;
+ }
+
+.midheading {
+    width: 190px;
+    margin: auto;
+}
+
+.type {
+    display: block;
+}
+
+.mb {
+    margin-bottom: 2px;
+}
+
+.buttontype {
+    margin-top: 10px;
 }
